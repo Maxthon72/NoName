@@ -1,0 +1,17 @@
+C:\Users\Macie\source\WF\bin\Debug\net6.0-windows\WF.exe
+C:\Users\Macie\source\WF\bin\Debug\net6.0-windows\WF.deps.json
+C:\Users\Macie\source\WF\bin\Debug\net6.0-windows\WF.runtimeconfig.json
+C:\Users\Macie\source\WF\bin\Debug\net6.0-windows\WF.dll
+C:\Users\Macie\source\WF\bin\Debug\net6.0-windows\WF.pdb
+C:\Users\Macie\source\WF\obj\Debug\net6.0-windows\WF.csproj.AssemblyReference.cache
+C:\Users\Macie\source\WF\obj\Debug\net6.0-windows\WF.Form1.resources
+C:\Users\Macie\source\WF\obj\Debug\net6.0-windows\WF.csproj.GenerateResource.cache
+C:\Users\Macie\source\WF\obj\Debug\net6.0-windows\WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Macie\source\WF\obj\Debug\net6.0-windows\WF.AssemblyInfoInputs.cache
+C:\Users\Macie\source\WF\obj\Debug\net6.0-windows\WF.AssemblyInfo.cs
+C:\Users\Macie\source\WF\obj\Debug\net6.0-windows\WF.csproj.CoreCompileInputs.cache
+C:\Users\Macie\source\WF\obj\Debug\net6.0-windows\WF.dll
+C:\Users\Macie\source\WF\obj\Debug\net6.0-windows\refint\WF.dll
+C:\Users\Macie\source\WF\obj\Debug\net6.0-windows\WF.pdb
+C:\Users\Macie\source\WF\obj\Debug\net6.0-windows\WF.genruntimeconfig.cache
+C:\Users\Macie\source\WF\obj\Debug\net6.0-windows\ref\WF.dll
